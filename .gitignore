@@ -12,3 +12,4 @@ main_gui
 bin/bppiv
 dump
 dump/
+uv.lock
